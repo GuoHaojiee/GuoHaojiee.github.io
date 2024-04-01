@@ -1,0 +1,24 @@
+p {
+    color: red;
+    width: 1000px;
+    font-size: 40px;
+    font-family: "Open Sans", sans-serif;
+  }
+
+a {
+    width: 500px;
+    font-size: 10px;
+}
+
+ol {
+    width: 500px;
+    font-size: 10px;
+    font-family: "Open Sans", sans-serif;
+}
+html {
+    background-color: white;
+}
+
+img {
+    display: block;
+}
